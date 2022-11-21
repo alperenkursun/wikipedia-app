@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.alll {
+  cursor: pointer;
+  background-color: #fff;
+}
+
+.alll:hover {
+  background-color: #111;
+  transition: all 0.6;
+}
+
+.alll:hover h3 {
+  color: #fff;
+}
